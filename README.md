@@ -1,2 +1,2 @@
 # EndlessRunner_UE5
-An Endless Runner game in Unreal Engine 5
+A 3D Endless Runner game in Unreal Engine 5
